@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sumit
+# Hi 👋, I'm Sumit Garg
 
 Backend Developer | Software Engineer  
 
