@@ -2,6 +2,8 @@
 
 Backend Developer | Software Engineer  
 
+Building and maintaining backend services for ERP, TMS, and internal platforms.
+
 I work on backend systems and APIs, focusing on clean code, scalability, and reliable data flow.
 
 Currently working with:
